@@ -10,7 +10,7 @@ Returns a list of all words in ascending order of most common.
 from hashmap import HashMap
 
 # Change TEXT to the path of the file you want to count
-TEXT = 'WordCounter/AliceInWonderland.txt'
+TEXT = 'AliceInWonderland.txt'
 
 def clean_line(raw_line):
     '''removes all punctuation from input string and

@@ -11,7 +11,7 @@ from hashmap import HashMap
 import csv
 
 # Change TEXT to the path of the file you want to count
-TEXT = 'WordCounter/Survey.csv'
+TEXT = 'Survey.csv'
 
 # Change FIELD to the name of the field/column in the csv you want to count
 FIELD = 'Movies seen'
